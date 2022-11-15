@@ -24,11 +24,11 @@ public class Exercicio4 {
 
     res = (nota1 + nota2) / 2;
     
-     if(res >= 9.5 && res <=10) {
+     if(res >= 6.5 && res <=10) {
       System.out.println("O aluno(a): foi aprovado com a média " + Math.round(res));
       alunos.add(res);
      }
-     else if (res < 9.5 && res > 0) {
+     else if (res < 6.5 && res > 0) {
       System.out.println("O aluno(a): foi reprovado com a média " + Math.round(res));
      }
      else {
