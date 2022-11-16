@@ -13,7 +13,7 @@ public class Exercicio8 {
   System.out.println("Digite o segundo valor: ");
   n2 = scan.nextInt();
 
-  while(n2 == 0) {
+  while(n2 == 0 || n2 < 0) {
     System.out.println("O valor nao pode ser 0! ");
      
     System.out.println("Digite o primeiro valor: ");
