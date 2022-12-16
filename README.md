@@ -193,4 +193,4 @@ Agora é hora mostrar o funcionamento desse elevador.
 Utilizando o Senac Lapa Tito como exemplo, crie  três instâncias desse elevador. Eles devem ser nomeados como Elevadores da Entrada, Átrio e Biblioteca e devem atender e deixar de atender os mesmos andares (incluindo o subsolo e o quinto andar) como no mundo "real".
 </p>
 
-<a href="https://github.com/GuiDEV1/Proa_Java/blob/main/JavaExercicios/Horda%20de%20codar%20(O%20retorno%20em%20JAVA)/Exercicio4.java">Solução</a>
+<a href="https://github.com/GuiDEV1/Proa_Java/blob/main/JavaExercicios/Elevador/src/Elevador.java">Solução</a>
